@@ -1,0 +1,3 @@
+name,sequence,start_position,stop_position,primer_length,capture_length
+RdRp Marker.F1,TGAGTGAAATGGTNNNNTGTGGCAGTTCACTAT,15427,15460,13,16
+E-Gene Marker.F1,AGCGTACTTCTTTTNNNNNCTTTCGTGGTATTCTTGCT,26289,26327,14,19
